@@ -1,7 +1,7 @@
 
 <?php
 
-echo "<h1>Random number generator : </h1>" ;
+echo Random number generator;
 echo rand(0,576);
 
 
