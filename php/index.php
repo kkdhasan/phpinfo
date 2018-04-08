@@ -1,6 +1,6 @@
 
 <?php
-echo Random number generator;
-echo Platform web;
+echo "Random number generator";
+echo "Platform web";
 ?>
 
