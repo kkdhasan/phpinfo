@@ -1,6 +1,10 @@
 
 <?php
-echo "Random number generator";
-echo "Platform web";
-?>
+echo rand() . "\n";
+echo rand() . "\n";
 
+echo rand(5, 15);
+echo "<br>";
+echo "Platform web";
+
+?>
