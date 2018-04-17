@@ -6,7 +6,7 @@ echo rand() . "\n";
 
 echo rand(5, 15);
 echo "<br>";
-echo "Platform web";
+echo "Platform web t";
 
 
 ?>
